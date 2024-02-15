@@ -1,1 +1,1 @@
-# Hotel-Management
+This project aims to create a hotel management system where Flask technology is used to establish a connection between the main Python script and MySQL Database. Also, HTML, CSS were used to create a web page where the user enters the details and further, it is rendered to our Database for performing CRUD operations which stands for Create, Remove, Update and Delete.# Hotel-Room-Management
